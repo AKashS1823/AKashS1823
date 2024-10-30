@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKashS1823
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Data Analyst
-- 💞️ I’m looking to collaborate on Data Analyst 
+- 👀 I’m interested in Frontend Developer
+- 🌱 I’m currently learning Frontend Developer
+- 💞️ I’m looking to collaborate on Frontend Developer 
 - 📫 How to reach me akashsinghraghuwanshi5@gmail.com
 
 <!---
